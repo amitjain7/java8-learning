@@ -1,0 +1,2 @@
+Supplier return some data, It can fetch some data from db , sone web service and
+return it.
